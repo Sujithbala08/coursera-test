@@ -1,0 +1,1 @@
+Document.write("this is a js code");
